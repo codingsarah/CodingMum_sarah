@@ -1,0 +1,56 @@
+body {
+	background-color: #00A8E5;
+	
+}
+
+.judul {
+	background-color: #fff;
+	padding: 10px;
+	text-align: center;
+	color: pink;
+	font-family: verdana;
+	width: 80%;
+	margin: auto;
+	border-radius: 10px;
+}
+
+.subjudul {
+	background-color: #0000A5;
+	padding: 10px;
+	text-align: center;
+	font-family: verdana;
+	
+}
+
+.isi {
+	font-family: verdana;
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.gambarutama {
+	width: 400;
+	margin: auto;
+	
+}
+
+#gambarutama {
+	width: 400;
+}
+
+
+a: link {
+	color: #fff;
+	
+}
+
+a: hover {
+	color: #ff0000
+	
+}
+
+a: visited {
+	color: #fff
+}
