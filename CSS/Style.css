@@ -1,32 +1,36 @@
 body {
-	background-color: #00A8E5;
+	background-color: #47c4db;
 	
 }
 
 .judul {
-	background-color: #fff;
+	background-color: #fcd3c2;
 	padding: 10px;
 	text-align: center;
-	color: pink;
+	color: #fff;
 	font-family: verdana;
 	width: 80%;
 	margin: auto;
 	border-radius: 10px;
 }
 
+
+
 .subjudul {
-	background-color: #0000A5;
+	background-color: #fff;
+	color: #000000;
 	padding: 10px;
+	width: 80%;
 	text-align: center;
 	font-family: verdana;
+	margin: auto;
 	
 }
 
 .isi {
-	font-family: verdana;
-	font-size: 20px;
+	font-family: script;
+	font-size: 30px;
 	text-align: center;
-	font-style: italic;
 	font-weight: bold;
 }
 
