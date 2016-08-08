@@ -1,0 +1,249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1920,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n/* CSS Document */\n\n  html, body {\n  height: 100%;\n}\n\n  body{\n  background-image:url(../img/cream_pixels.fw.png);\n  background-repeat:repeat;\n  margin-top:10px;\n}\n\n  .wrapper {\n  max-width: 1126px;\n  background-color:#FFF;\n  width: 100%;\n  margin: 0 auto -20px;\n}\n\n  img {\n  padding:1px;\n  border:1px solid #D7D7D7;\n  background-color:#FFF;\n  margin: 5px 15px 5px 50px;\n  }\n  \n\n/* ------------------ header ------------------- */\n  #header_top{\n  width: 100%;\n  background-image:url(../img/top_blue_bg.jpg);\n  background-repeat:repeat-x; \n  height:12px;\n  }\n\n\n  #header{\n  width: 100%;\n  background-color:#00AEC3;\n  background-image:url(../img/header_image.jpg);\n  background-repeat:no-repeat;\n  height:218px;\n  margin-left:0 0 0 0;\n  }\n\n\n  #header_bottom{\n  width: 100%;\n  background-image:url(../img/bottom_blue_bg.jpg);\n  background-repeat:repeat-x; \n  height:15px;\n  }\n\n/* ------------------ navigation ------------------- */\n\n  #nav {\n  width: 100%;\n  background-color: #FFBF00;\n  height: 57px;\n  background-repeat: repeat;\n  }\n\n\n  #nav .wrap-nav{\n  height: 30px; \n  background: #333333;\n  }\n\n\n  #nav ul{\n  float:left;\n  list-style:none;\n  width:100%;\n  }\n\n\n  #nav ul li{\n  float:left;\n  list-style:none;\n  margin-right:80px;\n  }\n\n\n  #nav ul li:hover {background: #00AEC3;}  \n  \n\n  #nav ul li a{\n  text-decoration: none;\n  font-size: 14px;\n  line-height: 16px;\n  color: #000000;\n  display: block;\n  padding: 7px 10px;\n  margin-bottom: 1px;\n  z-index: 3;\n  position: relative;\n  text-transform: uppercase;\n  font-family: Arial, Helvetica, sans-serif;\n  }\n  \n  /* ------------------ content ------------------- */\n  h2{\n  font-size:16px;\n  font-family:Arial, Helvetica, sans-serif;\n  line-height:16px;\n  }\n  h3{\n  font-family: Arial, Helvetica, sans-serif;\n  font-size: 110%;\n  font-weight: normal;\n  text-align: center;\n  color: #008493;\n  text-shadow: 0 1px 1px #dadada;\n  }\n  p{\n  font-size:12px; \n  font-family:Arial, Helvetica, sans-serif; \n  text-align:left; \n  line-height:18px;\n  text-align:justify;\n   }\n  a{\n  color:#DA251D;\n  }\n  #content .wrap-content{ background: #ffffff;}\n .box1 {\n  margin:5px 7px; \n  padding:10px; \n   }\n  .box1 h2{text-align:center; }\n  .box2 {\n  margin:0px 7px; \n  padding:10px; \n  text-align:left;\n  }\n  .box3 {\n  margin:5px 7px; \n  padding:10px; \n  text-align:left;\n  }\n div.line {\n  border-top-width:1px;\n  border-top-style:dotted;\n  border-top-color:#D7D7D7;\n  }\n\n/* -------------------- column and row ------------------- */\n  .wraptext{margin:5px;}\n\n  .text .co1umn1, .text .co1umn2{\n  float:left; display: inline-block;}\n\n  .text .wraptext{\n  margin: 16px;\n  }  \n\n\n/* ------------------ footer -------------------- */\nfooter {\n  background-image: url(../img/top_yellow_bg.jpg);\n  background-repeat: repeat-x;\n  }\n  .wrap-footer{\n  background-image: url(../img/top_yellow_bg.jpg);\n  background-repeat: repeat-x;\n  }\n.ftr {\n  background:#FFBF00;\n  font-family:Arial, Helvetica, sans-serif; \n  padding:10px 0px; \n  color:#ffffff; \n  }\n  .ftr p{\n  font-size:12px;\n  font-family:Arial, Helvetica, sans-serif;\n  text-align:center;\n  line-height:30px;\n  }\n  .ftr a{\n  text-decoration:underline; \n  color:#DA251D; \n}",
+			"file": "css/style.css",
+			"file_size": 3320,
+			"file_write_time": 131145932022915170,
+			"settings":
+			{
+				"buffer_size": 3154,
+				"line_ending": "Windows",
+				"name": "#header_top{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/sarah/CODING MUM Makassar/Github/CodingMum_sarah/CodingMum_sarah/latihan 2",
+		"/E/sarah/CODING MUM Makassar/Github/CodingMum_sarah/CodingMum_sarah/latihan 2/img"
+	],
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1432,
+								1432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1054,
+								1054
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#header_top{",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 482.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "latihan2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
